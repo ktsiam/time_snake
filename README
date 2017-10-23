@@ -1,5 +1,5 @@
 I made this funky little snake game to experiment with procedural programming and std::thread
-The snake consists of a pointer to it's head in an array, and it's body from time values of
+The snake consists of a pointer to it's head in an array, and it's body from time values
 that stop being relevant as soon as the timer surpasses them.
 
 To run: make, and run executable on terminal
